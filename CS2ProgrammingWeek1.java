@@ -128,7 +128,7 @@ public class CS2ProgrammingWeek1
 
 	// ModThreeNumbers({2, 1, 3, 5}) → true
 	// ModThreeNumbers({2, 1, 2, 5}) → false
-	// ModThreeNumbers({2, 4, 2, 5}) → true
+	// ModThreeNumbers({2, 4, 2, 5}) → true 
 	
 	/**
 	 * 
